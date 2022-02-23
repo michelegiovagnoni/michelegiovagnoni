@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michelegiovagnoni
 - 👀 I’m interested in ICT
-- 🌱 I’m currently working on Samrt City
+- 🌱 I’m currently working on Smart City
 - 💞️ I’m looking to collaborate on PA
 - 📫 How to reach me m.giovagnoni@comune.perugia.it
 
